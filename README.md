@@ -2,6 +2,6 @@
 
 ## What it has :
   => Role selection algorithm
-  => and role display algorithm
+  => role display algorithm
 
 v2.0.0 coming soon.....
